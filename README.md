@@ -1,6 +1,6 @@
 # HALLLOOOO
 
-### Actually more on GitLab... Corpo slave life just got me... BUT THE PROJECT IS SO INTERESTING (IN NUCLEAR POWER STATION)
+### Actually more on GitLab... BUUUTT RUST PROJECT INCOMING
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%A9ol-liu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6C%69%75%5F%6C%65%6F%40%68%6F%74%6D%61%69%6C%2E%66%72) 
